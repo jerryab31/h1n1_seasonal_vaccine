@@ -1,5 +1,3 @@
-# H1N1 and Seasonal Vaccine Prediction
-
 # H1N1 & Seasonal Vaccine Prediction (Multi-Output Classification)
 
 A complete machine learning pipeline to predict vaccine uptake for H1N1 and seasonal flu based on behavioral, demographic, and health-related features. This project was submitted as part of a real-world ML challenge, and ranked **177 out of 7,450 participants**.
