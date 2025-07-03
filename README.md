@@ -46,5 +46,6 @@ This is a **multi-label classification** problem with two binary outputs per ind
 
 - Dataset: Provided as part of the [DrivenData Vaccine Prediction Challenge](https://www.drivendata.org/competitions/)
 - Rank: **177 / 7450** participants
+- Submission AUC Score: 0.8628
 - Platform: DrivenData.org
 
